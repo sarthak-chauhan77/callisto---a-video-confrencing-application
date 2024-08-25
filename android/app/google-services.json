@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61129463774",
+    "project_id": "callisto-101f3",
+    "storage_bucket": "callisto-101f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61129463774:android:cb00beae1f252ca0302f4f",
+        "android_client_info": {
+          "package_name": "com.example.callisto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFfaUFS0CbSZ-0hkQhAFnjS8N0ABM1xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
